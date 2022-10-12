@@ -1,4 +1,4 @@
-This is a single page application that has basic banking functionalities such as sending an receive money, as well as request a loan.
+This is a single page application that has basic banking functionalities such as sending and receiving money, as well as requesting a loan.
 
 The app also has a timeout feature that logs the user out if the are inactive for ten seconds, it also has a feature that sort transactions based on the value. It was built with html, css, and vanilla javascript.
 
